@@ -1,4 +1,5 @@
-# Novus state of the industry page
+# Simple boilerplate for website
+Includes SASS, jQuery, bower.
 
 ## Install:
 1. install node 4+
