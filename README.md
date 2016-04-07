@@ -1,4 +1,4 @@
-# Simple boilerplate for website
+# Simple boilerplate for a website
 Includes SASS, jQuery, bower.
 
 ## Install:
