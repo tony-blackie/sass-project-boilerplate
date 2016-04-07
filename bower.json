@@ -1,0 +1,7 @@
+{
+  "name": "simple-page",
+  "version": "0.0.1",
+  "dependencies": {
+    "jQuery": "latest"
+  }
+}
